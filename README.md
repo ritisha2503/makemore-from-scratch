@@ -109,11 +109,26 @@ jupyter notebook
 Example generated names from trained models:
 
 ```text
-moriah
-kavien
-zalora
-anvith
-riyena
+elyse
+calield
+cala
+quaven
+izaia
+hanayi
+smaire
+elyza
+damiyiah
+josalino
+franzosway
+muhamned
+exxlly
+daela
+pahlia
+zylah
+leelany
+iyomi
+behmona
+ashvin
 ```
 
 ---
@@ -123,7 +138,6 @@ riyena
 Inspired by Andrej Karpathy’s legendary neural networks series:
 
 * makemore
-* micrograd
 * Neural Networks: Zero to Hero
 
 ---
@@ -148,11 +162,8 @@ This project helped me develop a strong intuition for:
 bigram/
 mlp/
 backprop/
-rnn/
 cnn/
-wavenet/
-datasets/
-notebooks/
+dataset/
 ```
 
 ---
